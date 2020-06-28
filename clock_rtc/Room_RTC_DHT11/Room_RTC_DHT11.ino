@@ -7,6 +7,7 @@
 #include <DHT.h>
 #include <DHT_U.h>
 
+// cmd + shift + p
 
 #define DHTPIN 2     // Digital pin connected to the DHT sensor 
 #define DHTTYPE    DHT11     // DHT 11

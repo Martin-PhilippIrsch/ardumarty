@@ -1,0 +1,6 @@
+{
+    "programmer": "AVR ISP",
+    "board": "arduino:avr:uno",
+    "port": "/dev/tty.usbmodem142301",
+    "sketch": "clock_rtc/Room_RTC_DHT11/Room_RTC_DHT11.ino"
+}
